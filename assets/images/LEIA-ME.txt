@@ -1,0 +1,1 @@
+Adiciona aqui as tuas fotografias. Configura portrait e galleries em assets/js/config.js. Cada imagem deve ter uma legenda PT e EN. Preferir JPEG/WebP comprimido.

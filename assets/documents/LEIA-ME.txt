@@ -1,0 +1,1 @@
+Adiciona os PDFs finais a esta pasta e configura os caminhos em assets/js/config.js. Nenhum PDF fictício foi incluído. O CV em português está incluído e configurado nos dois idiomas. Os restantes documentos aguardam os ficheiros finais.
