@@ -1,1 +1,0 @@
-Adiciona os PDFs finais a esta pasta e configura os caminhos em assets/js/config.js. Nenhum PDF fictício foi incluído. Os contactos e o CV estão desligados até serem configurados.
