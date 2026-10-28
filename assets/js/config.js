@@ -3,7 +3,7 @@
 window.PORTFOLIO = {
   email: "diogomanuelvieirapinto@gmail.com",
   linkedin: "https://www.linkedin.com/in/diogopinto4480",
-  cv: { pt: "assets/documents/Marketing_Digital_Diogo_Pinto.pdf", en: "assets/documents/Marketing_Digital_Diogo_Pinto.pdf" }, // O CV disponível está em português.
+  cv: { pt: "assets/documents/Marketing_Digital_Diogo_Pinto.pdf", en: "assets/documents/Digital_Marketing_Diogo_Pinto.pdf" }, // O CV disponível está em português.
   portrait: "", // Ex.: "assets/images/diogo.jpg"
   documents: {
     dissertation: "", // Ex.: "assets/documents/dissertacao.pdf"
