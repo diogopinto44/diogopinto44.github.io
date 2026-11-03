@@ -1,1 +1,0 @@
-Estão incluídos o CV, a dissertação, a proposta DEMS da equipa Market Masters para a Advanced Cyclone Systems e os trabalhos de grupo BeeSimple, Agência Abreu e KAMALY. Os seis PDFs são cópias integrais dos documentos fornecidos e estão disponíveis nas páginas em português e em inglês. Adiciona os restantes PDFs finais e configura os caminhos em assets/js/config.js.
